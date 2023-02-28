@@ -58,7 +58,11 @@ popun[37]="http://wo.musz.info";
 popun[38]="http://vz.musz.info";
 popun[39]="http://vy.musz.info";
 popun[40]="http://xy.musz.info"; 
-resultat = Math.floor(Math.random() * 41);
+popun[41]="http://br.ivyrc.com"; 
+popun[42]="http://ce.ivyrc.com"; 
+popun[43]="http://it.ivyrc.com"; 
+
+resultat = Math.floor(Math.random() * 44);
 window.open(popun[resultat], "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");
 window.focus();
 popup.blur();
