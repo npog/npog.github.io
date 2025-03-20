@@ -52,7 +52,7 @@ popun[31]="https://kbjblogmusz.blogspot.com/?m=1";
 
 
 resultat = Math.floor(Math.random() * 32);
-window.open(, "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");
+window.open(popun[resultat], "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");
 window.focus();
 popup.blur();
 }
