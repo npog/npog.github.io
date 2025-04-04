@@ -43,9 +43,15 @@ popun[22]="https://waremp3.blogspot.com/?m=1";
 popun[23]="https://celebruu.blogspot.com/?m=1";
 popun[24]="https://meggiita.blogspot.com/?m=1";
 popun[25]="https://kbjblogmusz.blogspot.com/?m=1";
+popun[26]="http://uks.starfree.jp";
+popun[27]="http://myrs.starfree.jp";
+popun[28]="http://osak.starfree.jp";
+popun[29]="http://swpr.starfree.jp";
+popun[30]="http://ryc.starfree.jp";
+popun[31]="http://cli.starfree.jp";
+popun[32]="http://obr.starfree.jp";
 
-
-resultat = Math.floor(Math.random() * 26);
+resultat = Math.floor(Math.random() * 33);
 window.open(popun[resultat], "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");
 window.focus();
 popup.blur();
