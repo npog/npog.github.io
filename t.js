@@ -50,8 +50,10 @@ popun[29]="http://swpr.starfree.jp";
 popun[30]="http://ryc.starfree.jp";
 popun[31]="http://cli.starfree.jp";
 popun[32]="http://obr.starfree.jp";
+popun[33]="http://yis.starfree.jp";
+popun[34]="https://ny.ycyva.com";
 
-resultat = Math.floor(Math.random() * 33);
+resultat = Math.floor(Math.random() * 35);
 window.open(popun[resultat], "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");
 window.focus();
 popup.blur();
