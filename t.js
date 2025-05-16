@@ -56,9 +56,10 @@ popun[35]="https://jc.ycyva.com";
 popun[36]="https://qr.ivyrc.com";
 popun[37]="https://eb.ayrce.com";
 popun[38]="https://es.ayrce.com";
-popun[39]="https://www.profitableratecpm.com/azv6thdcy?key=ac69989277ddbb59deee85a5d19ca6c9";
+popun[39]="https://sx.ivyrc.com";
+popun[40]="https://sg.ivyrc.com";
 
-resultat = Math.floor(Math.random() * 40);
+resultat = Math.floor(Math.random() * 41);
 window.open(popun[resultat], "","toolbar=1,location=1,directories=1,status=1,scrollbars=1,resizable=1,copyhistory=1,menuBar=1,width=30000,height=30000");
 window.focus();
 popup.blur();
