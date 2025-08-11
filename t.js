@@ -26,7 +26,7 @@ function popup(event) {
 "https://nycmetropolitan.blogspot.com/?m=1", 
 "https://tnayrc.blogspot.com/?m=1", 
 "https://myrf.doorblog.jp",
-"https://indoviral.doorblog.jp",
+"https://treatjayworkman.com/qxb31mam?key=994d32cf6900a7ae328e210e9afb8c6a",
 "https://treatjayworkman.com/teu8buq89?key=0acc444b1acc11d1802dc4d267126db3",
 "https://treatjayworkman.com/iu621n1s?key=9775eb36f28ff22c9ec5accd9bb32af5",
 "https://treatjayworkman.com/iucas28k?key=27dae133e561a67065ac5dba8fa9aa46",
