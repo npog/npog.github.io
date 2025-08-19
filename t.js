@@ -25,7 +25,7 @@ function popup(event) {
 "https://wissindo.blogspot.com/?m=1", 
 "https://nycmetropolitan.blogspot.com/?m=1", 
 "https://tnayrc.blogspot.com/?m=1", 
-"https://myrf.doorblog.jp",
+"https://treatjayworkman.com/vica11hxd?key=0ca36cce4e8ac115e87ac8e6168be479",
 "https://treatjayworkman.com/qxb31mam?key=994d32cf6900a7ae328e210e9afb8c6a",
 "https://treatjayworkman.com/teu8buq89?key=0acc444b1acc11d1802dc4d267126db3",
 "https://treatjayworkman.com/iu621n1s?key=9775eb36f28ff22c9ec5accd9bb32af5",
@@ -50,7 +50,12 @@ function popup(event) {
 "https://sx.ivyrc.com",
 "https://sg.ivyrc.com",
 "https://treatjayworkman.com/azv6thdcy?key=ac69989277ddbb59deee85a5d19ca6c9",
-"https://treatjayworkman.com/cd4nm9df?key=79e17d49c524dcf3dcc3ded87245a2a8"
+"https://treatjayworkman.com/cd4nm9df?key=79e17d49c524dcf3dcc3ded87245a2a8",
+"https://musicaitalian.blogspot.com/?m=1",
+"https://javayr.blogspot.com/?m=1",
+"https://luckzodx.blogspot.com/?m=1",
+"https://czrepub.blogspot.com/?m=1",
+"https://casdow.blogspot.com/?m=1"
         ];
         var resultat = Math.floor(Math.random() * popun.length);
         var newWindow = window.open(popun[resultat], "", "scrollbars=1,resizable=1");
